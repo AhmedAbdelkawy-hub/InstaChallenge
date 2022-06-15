@@ -1,0 +1,16 @@
+[
+  {
+  "firstname": "Ahmed",
+  "lastname": "Abdelkawy",
+    "email": "test@gmail.com",
+  "ConfirmEmail": "test@gmail.com",
+    "password": "12345678trt@",
+    "ValidCode": "123456",
+    "RegisterMessSuccessText": "You have successfully confirmed your account with the email",
+    "WelcomeMessageofProfile": "Welcome to Facebook, Ahme",
+    "RegisterMessFailedText": "The account that owns the email address you entered has been disabled",
+    "WrongMessageCode": "Wrong One",
+    "InValidCode": "12345",
+    "InValidEmail": "noone@gmail.com"
+  }
+  ]
